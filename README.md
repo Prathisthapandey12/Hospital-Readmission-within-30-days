@@ -75,10 +75,6 @@ The following metrics were used to evaluate model performance:
 - **Decision Tree and Random Forest:** The Decision Tree achieved 76.9% accuracy, while the Random Forest model performed significantly better, achieving an accuracy of 80.6% due to reduced overfitting.
 - **Neural Network:** Trained in PCA-transformed space for visualization and achieved an accuracy of 61.4%. It showed the highest flexibility and could capture complex patterns.
 
-### Decision Boundary Visualization
-To visualize the decision boundaries of each model, PCA was used to reduce the dataset to two dimensions. The resulting decision boundaries showed how each model separates readmitted patients from non-readmitted ones.
-
-![Decision Boundaries of Various Models in PCA-Transformed Space](image1.png)
 
 ---
 
